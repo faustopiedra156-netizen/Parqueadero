@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386984606214",
+    "firebase_url": "https://arduino-d0a7f-default-rtdb.firebaseio.com",
+    "project_id": "arduino-d0a7f",
+    "storage_bucket": "arduino-d0a7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386984606214:android:d4c5fa054e7f5af38e2187",
+        "android_client_info": {
+          "package_name": "com.example.parqueadero_inteligente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386984606214-d8vsar62o589e5f8kitp0p4ivqkmcpt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaPeaHk8MelwSBp3ZwJQbYERhE6_D7Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386984606214-d8vsar62o589e5f8kitp0p4ivqkmcpt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

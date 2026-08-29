@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Parqueadero Inteligente - Android",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "deviceId": "emulator-5556",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "Parqueadero Inteligente - Android Release",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "deviceId": "emulator-5556",
+      "program": "lib/main.dart"
+    }
+  ]
+}

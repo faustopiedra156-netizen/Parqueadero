@@ -1,0 +1,26 @@
+{
+  "parqueadero": {
+    "esp32Online": true,
+    "barrera": {
+      "estado": "cerrada",
+      "comando": "cerrar"
+    },
+    "puesto1": {
+      "ocupado": false,
+      "reservado": false,
+      "sensorOnline": true
+    },
+    "puesto2": {
+      "ocupado": false,
+      "reservado": false,
+      "sensorOnline": true
+    },
+    "rfid": {
+      "ultimoAcceso": {
+        "cardId": "RFID-DEMO",
+        "permitido": true,
+        "timestamp": 1720000000000
+      }
+    }
+  }
+}
